@@ -18,10 +18,10 @@ A frontend clone of Google's Gemini AI search interface. Built using React with 
 
 ## Screenshots
 
-![](src/screenshots/Screenshot-1.png)
-![](src/screenshots/Screenshot-2.png)
-![](src/screenshots/Screenshot-3.png)
-![](src/screenshots/Screenshot-4.png)
+![](screenshots/Screenshot-1.png)
+![](screenshots/Screenshot-2.png)
+![](screenshots/Screenshot-3.png)
+![](screenshots/Screenshot-4.png)
 
 ## Installation & Running Locally
 
